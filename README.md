@@ -1,2 +1,4 @@
-# devops-tasks
-kk
+DevOps Tasks
+=============
+
+Implemention of DevOps related tasks.
